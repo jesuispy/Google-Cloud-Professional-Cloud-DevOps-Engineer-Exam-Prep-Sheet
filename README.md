@@ -4,7 +4,7 @@
 ### Hello this is my Prep Sheet for the Google Cloud Professional Cloud DevOps Engineer Exam :boom:
  class SRE implements DevOps ... ohh yeahhh
  
-![GCP Net](images/cloud.png)
+![GCP Net](images/Cloud.png)
 
 
 This exam is not for the faint for heart. Think stacjdriver on crack. But you want to be an SRE so no problem :rage2:
