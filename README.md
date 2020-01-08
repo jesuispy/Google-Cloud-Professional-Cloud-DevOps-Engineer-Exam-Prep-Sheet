@@ -7,7 +7,7 @@
 ![GCP Net](images/Cloud.png)
 
 
-This exam is not for the faint for heart. Think stacjdriver on crack. But you want to be an SRE so no problem :rage2:
+This exam is not for the faint for heart. Think stackdriver on crack. But you want to be an SRE so no problem :rage2:
 &nbsp;
 &nbsp;
 
